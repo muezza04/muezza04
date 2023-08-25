@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Improve my skills as a back-end developer**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nuzurwan/](https://www.linkedin.com/in/nuzurwan/)
-
 - 💬 Ask me about **React.js, Express.js, Laravel dll**
 
 - ⚡ Fun fact **My hobby is reading**
