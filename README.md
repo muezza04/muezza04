@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muezza04&label=Profile%20views&color=0e75b6&style=flat" alt="muezza04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muezza04" alt="muezza04" /></a> </p>
-
 - 🌱 I’m currently learning **Back-End Java and Golang**
 
 - 🤝 I’m looking for help with **Improve my skills as a back-end developer**
@@ -20,7 +18,6 @@
 <a href="https://twitter.com/nuzu_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuzu_p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nuzurwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuzurwan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16509602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16509602" height="30" width="40" /></a>
-<a href="https://instagram.com/_nuzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nuzu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muezza04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muezza04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muezza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muezza" height="30" width="40" /></a>
 </p>
@@ -31,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muezza04&show_icons=true&locale=en&layout=compact" alt="muezza04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muezza04&show_icons=true&locale=en" alt="muezza04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muezza04&" alt="muezza04" /></p>
