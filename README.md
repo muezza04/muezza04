@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nuzurwan!!</h1>
 <h3 align="center">A passionate Front-End and Back-End Developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muezza04&label=Profile%20views&color=0e75b6&style=flat" alt="muezza04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muezza04" alt="muezza04" /></a> </p>
+
 - 🌱 I’m currently learning **Back-End Java and Golang**
 
 - 🤝 I’m looking for help with **Improve my skills as a back-end developer**
