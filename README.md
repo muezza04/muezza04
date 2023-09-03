@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muezza04&label=Profile%20views&color=0e75b6&style=flat" alt="muezza04" /> </p>
 
-- 🌱 I’m currently learning **Back-End Java and Golang**
+- 🌱 I’m currently learning **Back-End Engineer Java and Golang**
 
 - 🤝 I’m looking for help with **Improve my skills as a Back-End developer**
 
-- 💬 Ask me about **React.js, Express.js, Laravel dll**
+- 💬 Ask me about **Back-End Engineering workflow**
 
 - ⚡ Fun fact **My hobby is reading**
 
